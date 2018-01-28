@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">IDTN2</string>
+    <string name="gibberish">A style is a collection of attributes that specify the look and format for a View or window. A style can specify attributes such as height, padding, font color, font size, background color, and much more. A style is defined in an XML resource that is separate from the XML that specifies the layout.</string>
+    <string name="signGoogle">Google</string>
+    <string name="signFacebook">Facebook</string>
+    <string name="getStarted">Get Started</string>
+    <string name="google">Google</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="college_name">College Name</string>
+    <string name="sit">Siliguri Institute Of Technology</string>
+    <string name="batch">Batch</string>
+    <string name="personal_details">PERSONAL DETAILS</string>
+    <string name="temporary">Temporary</string>
+    <string name="proceed">Proceed</string>
+    <string name="college_details">COLLEGE DETAILS</string>
+    <string name="temp1">Many other credentials and data validation can be add here. Ekane aro jinis pore add korbe.</string>
+    <string name="err_msg_name">Field can be empty</string>
+    <string name="email_address">Email Address</string>
+    <string name="image_user_uploaded">image user uploaded</string>
+    <string name="user_profile_picture">user profile picture</string>
+    <string name="computer_science_department">Computer Science Department</string>
+</resources>
+
