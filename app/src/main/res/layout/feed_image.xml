@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:id="@+id/feedImageView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:contentDescription="@string/image_user_uploaded"
+        android:background="#22FFFFFF"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/front" />
+
+    <View
+        android:layout_height="300dp"
+        android:layout_width="match_parent"
+        android:background="#2e2e2e"
+        android:alpha="0.16"
+        />
+
+</RelativeLayout>
